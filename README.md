@@ -1,11 +1,11 @@
 <h1 align="center">Hey there! I am Can</h1>
 <h3 align="center">A passionate self-taught software developer from Turkey</h3>
 
-- 🔭 I’m currently working as **Jr iOS Developer** 
+- 🔭 I’m currently working as **iOS Developer at Huawei** 
 
 -  I have mechanical engineering degree but chose an another path :)
 
-- 🌱 I’m currently learning **Swift** and each day improving.
+- 🌱 I’m currently developing in **Swift** and each day improving.
 
 - 📫 How to reach me **can.yoldas0@outlook.com**
 
