@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! I am Can</h1>
-<h3 align="center">A passionate self-taught software developer from Turkey</h3>
+<h3 align="center">A passionate self-taught iOS developer from Turkey</h3>
 
-- 🔭 I’m currently working as **iOS Developer at Huawei** 
+- 🔭 I’m currently working as **iOS Developer at Adesso Turkey.** 
 
--  I have mechanical engineering degree but chose an another path :)
+-  I have mechanical engineering degree but changed my career path, followed my passion :)
 
 - 🌱 I’m currently developing in **Swift** and each day improving.
 
