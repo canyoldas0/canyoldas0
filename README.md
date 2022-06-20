@@ -1,11 +1,13 @@
 <h1 align="center">Hey there! I am Can</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
-- 🔭  I’m currently working as **iOS Developer at Adesso Turkey.** 
+- 🔭   I’m currently working as **iOS Developer at Adesso Turkey.** 
+
+- 💻   Working on ING Bank's mobile app, responsible for Accounts and Money Transactions.
 
 - ✂️   I have mechanical engineering degree but changed my career path, followed my passion :)
 
-- 🌱  I’m currently developing in **Swift** and each day improving.
+- 🌱   I’m currently developing in **Swift** and each day improving.
 
 - 📫 How to reach me **can.yoldas0@outlook.com**
 
