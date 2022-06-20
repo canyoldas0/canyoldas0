@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I am Can</h1>
-<h3 align="center">A passionate self-taught iOS developer from Turkey</h3>
+<h3 align="center">A passionate iOS developer from Turkey</h3>
 
 - 🔭  I’m currently working as **iOS Developer at Adesso Turkey.** 
 
