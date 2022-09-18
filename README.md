@@ -7,7 +7,7 @@
 
 - ✂️   I have mechanical engineering degree but changed my career path, followed my passion :)
 
-- 🌱   I’m currently developing in **Swift** and each learning new technologies like Electron.js 
+- 🌱   I’m developing in **Swift and UIKit** and each day learning new technologies, currently on SwiftUI :)
 
 - 📫 How to reach me **can.yoldas0@outlook.com**
 
