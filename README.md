@@ -3,7 +3,7 @@
 
 - 🔭   I’m currently working as **iOS Developer at TicketSwap.** 
 
-- 💻   Worked on ING Bank's mobile app, was responsible for Accounts and Money Transactions.
+- 💻   Working on discovery & browsing events with SwiftUI and GraphQL!
 
 - ✂️   I have mechanical engineering degree but changed my career path, followed my passion :)
 
