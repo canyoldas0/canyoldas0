@@ -1,12 +1,10 @@
 <h1 align="center">Hey there! I am Can</h1>
 <h3 align="center">A passionate iOS developer in Amsterdam!</h3>
 
-- 🔭   I’m currently working as **iOS Developer at TicketSwap.** 
+- 🔭   I work at TicketSwap as an iOS Engineer.
 
-- 💻   Working on discovery & browsing events with SwiftUI and GraphQL!
+- 💻   Working on discovery & browsing events to improve users' experience every day!
 
-- ✂️   I have mechanical engineering degree but changed my career path, followed my passion :)
-
-- 🌱   I’m developing in **Swift and UIKit** and each day learning new technologies, currently on SwiftUI :)
+- ✂️   I've worked with UIKit, currently cooking with SwiftUI & GraphQL  
 
 - 📫 How to reach me **can.yoldas0@outlook.com**
