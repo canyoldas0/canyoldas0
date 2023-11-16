@@ -3,10 +3,8 @@
 
 - 🔭  I work at TicketSwap as an iOS Engineer.
 
-- 💻  Working on discovery & browsing events to improve users' experience every day!
-
-- ✂️   I've worked with UIKit, currently cooking with SwiftUI
+- ✂️   I've worked with UIKit, currently cooking with SwiftUI. Nope, I don't miss UIKit :) 
 
 - 🎚️  I sometimes find myself doing nerdy things with micro-controllers.
 
-- 📫 How to reach me **can.yoldas0@outlook.com**
+- 📫 How to reach me **canyoldas1997@gmail.com**
