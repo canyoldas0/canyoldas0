@@ -7,4 +7,4 @@
 
 - 🎚️  I sometimes find myself doing nerdy things with micro-controllers.
 
-- 📫 How to reach me **yoldascan@proton.me**
+- 📫 How to reach me **canyoldas0@icloud.com**
