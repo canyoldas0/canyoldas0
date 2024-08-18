@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I am Can</h1>
-<h3 align="center">A passionate iOS developer in Amsterdam!</h3>
+<h3 align="center">A passionate iOS developer in London!</h3>
 
-- 🔭  I an iOS Engineer.
+- 🔭  I an iOS Engineer working at Meta.
   
 - 📱  I have 2 apps in AppStore and that's not gonna stop there :)
 
